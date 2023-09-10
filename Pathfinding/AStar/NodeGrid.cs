@@ -15,7 +15,6 @@ namespace Pathfinding.AStar {
             Nodes = new Node[Width * Height];
 
             for (int i = 0; i < Nodes.Length; i++) {
-                Nodes[i] = new Node();
                 Nodes[i].Position = new Vector2(i % Width, i / Width);
             }
         }
@@ -30,7 +29,7 @@ namespace Pathfinding.AStar {
         }
     }
 
-    internal class Node {
+    internal struct Node {
 
         public bool Blocked;
 
