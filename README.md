@@ -2,11 +2,11 @@
 
 A C# implementation of A* pathfinding with a simple grid editor and renderer
 
-![Example image 1](images/image-2.png)
+![Example image 1](https://github.com/RealAdamNormoyle/AStarPathfinding/blob/master/Images/image-2.png)
 
-![Example image 2](images/image-3.png)
+![Example image 2](https://github.com/RealAdamNormoyle/AStarPathfinding/blob/master/Images/image-3.png)
 
-![Example image 3](images/image-4.png)
+![Example image 3](https://github.com/RealAdamNormoyle/AStarPathfinding/blob/master/Images/image-4.png)
 
 ## Build Instructions
 
