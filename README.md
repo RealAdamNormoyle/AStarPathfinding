@@ -6,8 +6,6 @@ A C# implementation of A* pathfinding with a simple grid editor and renderer
 
 ![Example image 2](https://github.com/RealAdamNormoyle/AStarPathfinding/blob/master/Images/image-3.png)
 
-![Example image 3](https://github.com/RealAdamNormoyle/AStarPathfinding/blob/master/Images/image-3.png)
-
 ## Build Instructions
 
 Build the example program with Visual Studio and .Net Framework 7
